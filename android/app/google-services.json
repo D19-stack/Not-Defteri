@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "730879270016",
+    "project_number": "***********",
     "project_id": "flutter-not-defterim",
     "storage_bucket": "flutter-not-defterim.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:730879270016:android:222500e2e98a7bfbcf5a65",
+        "mobilesdk_app_id": "************",
         "android_client_info": {
           "package_name": "com.example.flutter_not_defteri"
         }
       },
       "oauth_client": [
         {
-          "client_id": "730879270016-d2spl26f2u37e19rjb14utvljrm0qvjh.apps.googleusercontent.com",
+          "client_id": "*****************",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAV0RWjgT3ThM8JdQIC_ZkIlNTFJGnBry8"
+          "current_key": "*********"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "730879270016-d2spl26f2u37e19rjb14utvljrm0qvjh.apps.googleusercontent.com",
+              "client_id": "**************",
               "client_type": 3
             }
           ]
